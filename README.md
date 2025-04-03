@@ -3,7 +3,8 @@
 ## Estudiante:
 - **Nombre:** Luis Eduardo Vásquez Villalta
 - **Carné:** VV121782
-- **Universidad Don Bosco** 
+- **Universidad Don Bosco**
+- **Video de defensa:** https://youtu.be/C_VsXI5pjOs
 
 ---
 

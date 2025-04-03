@@ -202,6 +202,8 @@ fun pagarCarrito(carritoService : CarritoCompraService, itemService : ItemServic
         println("   ¡Muchas gracias por su compra!")
 
         println("\n\n Puede continuar haciendo más compras...")
+
+        carritoService.limpiarCarrito()
     }
 }
 
